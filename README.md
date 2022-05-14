@@ -1,23 +1,12 @@
 # Hi there, I'm Victor - aka [v1to3r] 👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/v1to3r?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/v1t03r?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fv1t03rr&screen_name=codeSTACKr)
 
 ## I'm a Husband, Father, Developer, and a Digital Problem Solver!
 
 - 🌱 I’m currently learning everything 
 - 🥅 2022 Goals: Learn more about Reactive Programming
 - 🤔 Fun fact: I love to learn something new
-
-### Connect with me:
-
-[![website](./img/twitter-light.svg)](https://twitter.com/v1t03r#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/v1t03r#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/v1t03r#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/v1t03r#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/v1t03r#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/v1t03r#gh-dark-mode-only)
 
 ### Languages and Tools:
 
