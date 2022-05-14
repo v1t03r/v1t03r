@@ -1,5 +1,3 @@
-# Hi there, I'm Victor 👋 
-
 ## I work leveraging the latest technology to develop groundbreaking products 🍋
 
 💻 I started my career building websites, to create both enjoyable and memorable experiences. <br>
