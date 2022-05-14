@@ -1,8 +1,8 @@
-# Hi there, I'm v1to3r 👋 
+# Hi there, I'm Victor 👋 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/v1t03r?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fv1t03rr&screen_name=codeSTACKr)
 
-## I work leveraging the latest technology to develop groundbreaking products
+## I work leveraging the latest technology to develop groundbreaking products 🍋
 
 💻 I started my career building websites, to create both enjoyable and memorable experiences. <br>
 👽 I have always sought to unite the best design techniques with the latest technologies. <br>
